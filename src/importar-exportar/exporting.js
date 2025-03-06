@@ -1,13 +1,13 @@
 function ladrar(){
-    console.log("Guau")
+    console.log("Funcion Ladrar: GUAU!")
 }
 
 function rugir(){
-    console.log("Grrrrrr")
+    console.log("Funcion rugir: GRRRRRRR")
 }
 
 function aullar(){
-    console.log('AAAUUUU')
+    console.log('AAAUUUUUU')
 }
 
 module.exports = {
